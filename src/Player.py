@@ -1,0 +1,9 @@
+import pygame
+import random
+
+
+WIDTH = 360
+HEIGHT = 480
+FPS = 30
+
+
